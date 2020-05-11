@@ -1,5 +1,5 @@
 # Pull base image 
-From tomcat:7-jre7
+From tomcat:9-jre9
 
 # Maintainer 
 MAINTAINER "Suresh Kumar Pakalapati" 
