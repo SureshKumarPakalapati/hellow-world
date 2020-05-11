@@ -2,6 +2,6 @@
 From tomcat:9-jre9
 
 # Maintainer 
-MAINTAINER "Suresh Kumar Pakalapati" 
+MAINTAINER "suresh.sonu2@gmail.com" 
 
 COPY ./webapp.war /usr/local/tomcat/webapps
